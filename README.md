@@ -1,2 +1,2 @@
 # PAMSI
-Repository with projectst from alogortihm and data structure course.
+Repository with projects from alogortihms and data structure course.
